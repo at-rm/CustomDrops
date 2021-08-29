@@ -1,4 +1,4 @@
-package dev.smelly.customdrops;
+package dev.eli.customdrops;
 
 import org.bukkit.Bukkit;
 import org.bukkit.configuration.file.FileConfiguration;

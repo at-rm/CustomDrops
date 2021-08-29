@@ -1,4 +1,4 @@
-package dev.smelly.customdrops;
+package dev.eli.customdrops;
 
 import com.jojodmo.customitems.api.CustomItemsAPI;
 import org.bukkit.Material;

@@ -1,4 +1,4 @@
-package dev.smelly.customdrops;
+package dev.eli.customdrops;
 
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;
