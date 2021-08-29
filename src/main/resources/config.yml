@@ -1,0 +1,11 @@
+grass:
+  items:
+    - name: 'carrot'
+      chance: 10
+    - name: 'sweet_berries'
+      chance: 10
+
+leaves:
+  items:
+    - name: 'cookie'
+      chance: 80

@@ -1,0 +1,9 @@
+name: CustomDrops
+version: '${project.version}'
+main: dev.smelly.customdrops.CustomDrops
+api-version: 1.17
+depend: [CustomItems]
+description: This plugin lets you define custom drops from various materials
+commands:
+  crel:
+    description: Reload config for CustomDrops
